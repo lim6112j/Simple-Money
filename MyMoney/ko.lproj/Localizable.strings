@@ -1,0 +1,16 @@
+/* 
+  Strings.strings
+  MyMoney
+
+  Created by byeong cheol lim on 11. 12. 18..
+  Copyright (c) 2011년 SK M&S. All rights reserved.
+*/
+"Register"="지출등록";
+"List"="지출내역";
+"Money Expense"="지출 등록";
+"Money Expense List"="지출 내역";
+"1 Day Expense"="일 지출";
+"1 Week Expense"= "금주 지출";
+"1 Month Expense"= "월 총지출";
+"Settings" = "설정";
+"cash"="현금";

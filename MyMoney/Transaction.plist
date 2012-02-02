@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>하나SK</key>
+	<string>0,1,2-3,5,7</string>
+	<key>하나SK-해외</key>
+	<string>0,1,2-3,4,6</string>
+	<key>[현대카드]</key>
+	<string>0,1,2,3,4</string>
+	<key>[현대카드]-해외</key>
+	<string>0,1,2,3,5</string>
+	<key>KB국민</key>
+	<string>0,1,2,3,4</string>
+	<key>[현대카드M]</key>
+	<string>0,1,2,3,4</string>
+	<key>[현대카드M]-해외</key>
+	<string>0,1,2,3,5</string>
+	<key>SC제일BC</key>
+	<string>0,1,2,4,6</string>
+</dict>
+</plist>
