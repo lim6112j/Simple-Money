@@ -3,7 +3,7 @@
 //  DoodleFalling
 //
 //  Created by lim byeong cheol on 11. 9. 23..
-//  Copyright 2011년 SK M&S. All rights reserved.
+//  Copyright 2011년 ZenCom. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
