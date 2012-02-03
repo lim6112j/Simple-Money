@@ -3,7 +3,7 @@
 //  MyMoney
 //
 //  Created by byeong cheol lim on 11. 12. 18..
-//  Copyright (c) 2011년 SK M&S. All rights reserved.
+//  Copyright (c) 2011년 zencom. All rights reserved.
 //
 
 #import "SecondViewController.h"
